@@ -1,6 +1,6 @@
 # Face-Perception
 
-### Best practices of Face perception that includes Face detection, Age prediction, and Gender Prediction.
+### Face detection, Age prediction, and Gender Prediction.
 <p>
 <img src="test_results/out_1.jpg">
 </p>
